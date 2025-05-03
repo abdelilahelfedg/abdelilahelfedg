@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi, I'm Abdelilah el Fedg 👋</h1>
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Abdelilah's+Github+!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Abdelilah's+Github+!" alt="Typing SVG" />
-  </a>
   <a href="https://github.com/AbdelilahElFedg" title="Welcome!">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+Abdelilah's+GitHub!;Data+Science+%7C+AI+%7C+Big+Data+Engineer;Passionate+about+Data+%26+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+Abdelilah's+GitHub!;Data+Science+%7C+AI+%7C+Big+Data+Engineer;Passionate+about+Data+%26+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
