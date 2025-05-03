@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center"> I'm a Data Science and AI Engineering student at the National School of Applied Sciences in Al Hoceima, with a strong foundation in machine learning, deep learning, cloud computing, big data, NLP, and the full data lifecycle.
+<h3 align="center"> I'm a Data Science and AI Engineering student at the National School of Applied Sciences in Al Hoceima, with a strong foundation in machine learning, deep learning, cloud computing, big data, NLP, and the full data lifecycle. <br>
 I have hands-on experience with technologies such as Python, pandas, scikit-learn, TensorFlow, Keras, PySpark, Hadoop, Microsoft Azure, SQL (PostgreSQL, MySQL, SQL Server), as well as JavaScript and Node.js.
 I've contributed to real-world projects during internships, including fraud detection and unemployment analysis, applying data science techniques to deliver actionable insights.</h3>
 <h2>Let’s connect! I’m eager to apply my skills to real-world challenges, collaborate on innovative projects, and contribute to data-driven success.</h2>
@@ -58,6 +58,9 @@ I've contributed to real-world projects during internships, including fraud dete
   </a>
   <a href="https://www.linkedin.com/in/abdelilah-el-fedg-17020523a/" title="LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/abdelilahelfedg" title="Kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
   
