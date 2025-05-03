@@ -11,7 +11,8 @@ I have hands-on experience with technologies such as Python, pandas, scikit-lear
 I've contributed to real-world projects during internships, including fraud detection and unemployment analysis, applying data science techniques to deliver actionable insights.</h3>
 <h2>Let’s connect! I’m eager to apply my skills to real-world challenges, collaborate on innovative projects, and contribute to data-driven success.</h2>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+<img align="right" src="URL_DU_GIF" width="200" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+
 <br>
 
 ## 🎓 EDUCATION
