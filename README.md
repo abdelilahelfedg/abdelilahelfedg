@@ -9,7 +9,7 @@
 <h3 align="center"> I'm a Data Science and AI Engineering student at the National School of Applied Sciences in Al Hoceima, with a strong foundation in machine learning, deep learning, cloud computing, big data, NLP, and the full data lifecycle.
 I have hands-on experience with technologies such as Python, pandas, scikit-learn, TensorFlow, Keras, PySpark, Hadoop, Microsoft Azure, SQL (PostgreSQL, MySQL, SQL Server), as well as JavaScript and Node.js.
 I've contributed to real-world projects during internships, including fraud detection and unemployment analysis, applying data science techniques to deliver actionable insights.</h3>
-<h2>Let’s connect! I’m eager to apply my data science and AI skills to real-world challenges, collaborate on innovative projects, and contribute to data-driven success.</h2>
+<h2>Let’s connect! I’m eager to apply my skills to real-world challenges, collaborate on innovative projects, and contribute to data-driven success.</h2>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 <br>
