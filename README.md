@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center"> I'm a Data Science and AI Engineering student at the National School of Applied Sciences in Al Hoceima, with a strong foundation in machine learning, deep learning, cloud computing, big data, NLP, and the full data lifecycle. <br>
+<h3 align="center"> I'm a Data and AI Engineering student at the National School of Applied Sciences in Al Hoceima, with a strong foundation in machine learning, deep learning, Data Engineering, cloud computing, big data, NLP, and the full data lifecycle. <br>
 I have hands-on experience with technologies such as Python, pandas, scikit-learn, TensorFlow, Keras, PySpark, Hadoop, Microsoft Azure, SQL (PostgreSQL, MySQL, SQL Server), as well as JavaScript and Node.js. <br>
 I've contributed to real-world projects during internships, including fraud detection and unemployment analysis, applying data science techniques to deliver actionable insights.</h3>
 <h2>Let’s connect! I’m eager to apply my skills to real-world challenges, collaborate on innovative projects, and contribute to data-driven success.</h2>
